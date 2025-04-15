@@ -73,7 +73,7 @@ Build an interactive Tableau dashboard using the *Global Superstore* dataset. Th
 
 ---
 
-
+![alt text](Global Superstore Dashboard.png)
 
 ---
 
