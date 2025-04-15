@@ -4,10 +4,6 @@
 
 ## 📊 Global Superstore Dashboard – Tableau Project
 
-**Author:** Nathan Mullings  
-**Project:** Data Technician Skills Bootcamp – Tableau Week  
-**Tool:** Tableau Desktop  
-
 ---
 
 ## 🎯 Objective
@@ -77,11 +73,7 @@ Build an interactive Tableau dashboard using the *Global Superstore* dataset. Th
 
 ---
 
-## ✅ Next Steps
 
-- Add additional visuals using trend lines or forecast models  
-- Publish dashboard to Tableau Public for online sharing  
-- Integrate with GitHub portfolio for employer visibility  
 
 ---
 
