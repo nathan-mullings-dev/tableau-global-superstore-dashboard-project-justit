@@ -73,7 +73,7 @@ Build an interactive Tableau dashboard using the *Global Superstore* dataset. Th
 
 ---
 
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-project-justit/blob/main/Global%20Superstore%20Dashboard.png" width="500"/></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-project-justit/blob/main/Global%20Superstore%20Dashboard.png" width="800"/></a>
 
 ---
 
