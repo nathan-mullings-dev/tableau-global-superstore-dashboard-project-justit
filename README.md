@@ -62,13 +62,18 @@ Build an interactive Tableau dashboard using the *Global Superstore* dataset. Th
 
 ---
 
-## 📌 Key Takeaways
+## 🎓 Learning Outcomes
 
-- Mastered Tableau chart types and filtering techniques
-- Gained experience designing multi-visual dashboards
-- Demonstrated ability to turn raw data into interactive insights
+From this project, I developed key Tableau and analytical skills, including:
 
----
+- 🧠 Understanding how to select the right chart type based on the data story
+- ⚙️ Building interactive, user-driven dashboards using **filters, actions**, and **parameters**
+- 🧾 Applying **table calculations** for dynamic percentage insights
+- 🗺️ Improving design sense with layout, alignment, and whitespace for clear storytelling
+- 📊 Interpreting and presenting insights related to **sales performance, shipping trends, and customer segmentation**
+- 📈 Reinforcing my ability to communicate data visually in a business context
+
+--
 
 ## 📸 Dashboard Preview
 
