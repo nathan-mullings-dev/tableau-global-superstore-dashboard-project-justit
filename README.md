@@ -1,7 +1,5 @@
 # 📊 Global Superstore Dashboard – Tableau Project | JustIT
-[(A link to my public Tableau hub for the Global Superstore Dashboard project)](https://public.tableau.com/app/profile/nathan.mullings/viz/GlobalSuperstoreDashboard_17417072414600/GlobalSuperstoreDashboard)
-A link to my public Tableau hub for the Global Superstore Dashboard project.
-https://public.tableau.com/app/profile/nathan.mullings/viz/GlobalSuperstoreDashboard_17417072414600/GlobalSuperstoreDashboard
+[A link to my public Tableau hub for the Global Superstore Dashboard project](https://public.tableau.com/app/profile/nathan.mullings/viz/GlobalSuperstoreDashboard_17417072414600/GlobalSuperstoreDashboard)
 
 ---
 
