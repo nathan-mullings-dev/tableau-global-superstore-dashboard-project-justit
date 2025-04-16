@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 Global Superstore Dashboard – Tableau Project
+# 📊 Global Superstore Dashboard – Tableau Project | JustIT
 
 ---
 
