@@ -77,6 +77,6 @@ From this project, I developed key Tableau and analytical skills, including:
 
 ## 📸 Dashboard Preview
 
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-project-justit/blob/main/Global%20Superstore%20Dashboard%20-%20Tableau.png" width="1000"/></a>
+<a href="https://public.tableau.com/app/profile/nathan.mullings/viz/GlobalSuperstoreDashboard_17417072414600/GlobalSuperstoreDashboard" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-project-justit/blob/main/Global%20Superstore%20Dashboard%20-%20Tableau.png" width="1000"/></a>
 
 ---
