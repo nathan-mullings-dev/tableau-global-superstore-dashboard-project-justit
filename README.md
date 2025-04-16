@@ -73,7 +73,7 @@ From this project, I developed key Tableau and analytical skills, including:
 - 📊 Interpreting and presenting insights related to **sales performance, shipping trends, and customer segmentation**
 - 📈 Reinforcing my ability to communicate data visually in a business context
 
---
+---
 
 ## 📸 Dashboard Preview
 
