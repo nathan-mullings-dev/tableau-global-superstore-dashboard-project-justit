@@ -1,7 +1,3 @@
-# Tableau Project | JustIT
-
----
-
 # 📊 Global Superstore Dashboard – Tableau Project | JustIT
 
 ---
