@@ -73,9 +73,8 @@ Build an interactive Tableau dashboard using the *Global Superstore* dataset. Th
 
 ---
 
+## 📸 Dashboard Preview
+
 <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/nathan-mullings-dev/tableau-project-justit/blob/main/Global%20Superstore%20Dashboard.png" width="1000"/></a>
 
 ---
-
-> 💡 *This dashboard project showcases foundational Tableau skills in data storytelling and user-centric dashboard design.*
-
